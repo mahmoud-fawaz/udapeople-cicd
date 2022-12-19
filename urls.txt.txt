@@ -1,0 +1,5 @@
+URL01 : https://github.com/mahmoud-fawaz/udapeople-cicd
+URL02 : http://udapeople-16825ef.s3-website-us-east-1.amazonaws.com
+URL03 : http://d2gjx5arn1s1h0.cloudfront.net/
+URL04 : http://54.243.51.64:3030/api/status
+URL05 : http://44.204.89.137:9090/targets?search=
